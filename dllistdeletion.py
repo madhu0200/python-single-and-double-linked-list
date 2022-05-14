@@ -1,3 +1,4 @@
+#this is imported and used in the dlistpush.py 
 from dlistsize import sizeoflist
 s=sizeoflist()
 class deleteNode:
